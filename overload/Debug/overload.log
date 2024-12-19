@@ -1,0 +1,3 @@
+﻿  demo_vector.cpp
+F:\Cdev\overload\overload\demo_vector.cpp(23,20): warning C4018: '<': signed/unsigned mismatch
+  overload.vcxproj -> F:\Cdev\overload\Debug\overload.exe
